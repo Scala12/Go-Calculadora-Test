@@ -9,5 +9,5 @@ para instalar o go.mod
 digite no terminal: "go mod init "nome-do-seu-projeto"
 
 
-Para ter um arquivo test em Go, é necessário nomealo com _test.go
+Para ter um arquivo test em Go, é necessário nomeá-lo com _test.go
 Ex: calculadora_test.go
